@@ -22,9 +22,22 @@ If you found matrices still too hard to understand, following lecture notes migh
 
 Many ideas in d2l are hard to understand, which is normal because it tries to explain and implement complex ideas in a short chapter. I struggled to build intuitions for some important ideas and below are some great articles that helped me a lot.
 
+### Basics
+
 - [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/) ([archive](https://web.archive.org/web/20231224030853/https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/))
 - [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) ([archive](https://web.archive.org/web/20231205022718/https://pytorch.org/tutorials/beginner/nn_tutorial.html))
+
+### Encoder-Decoder
+
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) ([archive](https://web.archive.org/web/20240131082018/https://colah.github.io/posts/2015-08-Understanding-LSTMs/))
 - [Encoder-Decoder Seq2Seq Models, Clearly Explained](https://medium.com/analytics-vidhya/encoder-decoder-seq2seq-models-clearly-explained-c34186fbf49b) ([archive](http://archive.today/PMVF1))
+
+### Attention
+
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) ([archive](https://web.archive.org/web/20240206032804/https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/))
 - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) ([archive](https://web.archive.org/web/20240114155142/https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html))
+
+### Transformer
+
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) ([archive](https://web.archive.org/web/20240210055201/http://jalammar.github.io/illustrated-transformer/))
+- [The Random Transformer](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/) ([archive](https://web.archive.org/web/20240210054909/https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/))
