@@ -26,6 +26,7 @@ Many ideas in d2l are hard to understand, which is normal because it tries to ex
 
 - [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/) ([archive](https://web.archive.org/web/20231224030853/https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/))
 - [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) ([archive](https://web.archive.org/web/20231205022718/https://pytorch.org/tutorials/beginner/nn_tutorial.html))
+- [Softmax Temperature](https://medium.com/mlearning-ai/softmax-temperature-5492e4007f71) ([archive](https://archive.is/vZnjH))
 
 ### Encoder-Decoder
 
@@ -41,3 +42,11 @@ Many ideas in d2l are hard to understand, which is normal because it tries to ex
 
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) ([archive](https://web.archive.org/web/20240210055201/http://jalammar.github.io/illustrated-transformer/))
 - [The Random Transformer](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/) ([archive](https://web.archive.org/web/20240210054909/https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/))
+- [Inference Llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
+
+### Embedding
+
+- [Sentence Embeddings. Introduction to Sentence Embeddings](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/) ([archive](https://web.archive.org/web/20240208144837/https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/))
+- [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) ([archive](https://web.archive.org/web/20240125075747/https://huggingface.co/blog/how-to-generate))
+
+
