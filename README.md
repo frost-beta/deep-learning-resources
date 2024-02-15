@@ -54,5 +54,12 @@ Many ideas in d2l are hard to understand, which is normal because it tries to ex
 
 - [LLaMA-2 from the Ground Up](https://cameronrwolfe.substack.com/p/llama-2-from-the-ground-up) ([archive](https://web.archive.org/web/20231123055809/https://cameronrwolfe.substack.com/p/llama-2-from-the-ground-up))
 - [Understanding Rotary Positional Encoding](https://medium.com/@ngiengkianyew/understanding-rotary-positional-encoding-40635a4d078e) ([archive](https://archive.is/Cdc9y))
-- [Inference Llama 2 in one file of pure C (GitHub repo)](https://github.com/karpathy/llama2.c)
-- [LLaMA2 from Scratch (GitHub repo)](https://github.com/aju22/LLaMA2)
+
+Following LLaMA2 implementations in PyTorch are very similar, but their code comments are kind of complementary. I find reading both side-by-side really helpful.
+
+- [LLaMA2 from Scratch](https://github.com/aju22/LLaMA2)
+- [pytorch-llama](https://github.com/hkproj/pytorch-llama)
+
+After getting familiar with the PyTorch code, the C implementation helps understand deeper.
+
+- [Inference Llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
