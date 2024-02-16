@@ -27,7 +27,6 @@ Many ideas in d2l are hard to understand, which is normal because it tries to ex
 - [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/) ([archive](https://web.archive.org/web/20231224030853/https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/))
 - [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) ([archive](https://web.archive.org/web/20231205022718/https://pytorch.org/tutorials/beginner/nn_tutorial.html))
 - [Softmax Temperature](https://medium.com/mlearning-ai/softmax-temperature-5492e4007f71) ([archive](https://archive.is/vZnjH))
-- [SwiGLU](https://kikaben.com/swiglu-2020/) ([archive](https://web.archive.org/web/20240105225430/https://kikaben.com/swiglu-2020/))
 
 ### Encoder-Decoder
 
@@ -50,10 +49,17 @@ Many ideas in d2l are hard to understand, which is normal because it tries to ex
 - [Sentence Embeddings. Introduction to Sentence Embeddings](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/) ([archive](https://web.archive.org/web/20240208144837/https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/))
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) ([archive](https://web.archive.org/web/20240125075747/https://huggingface.co/blog/how-to-generate))
 
+### Rotary Positional Encoding
+
+- [Understanding Rotary Positional Encoding](https://medium.com/@ngiengkianyew/understanding-rotary-positional-encoding-40635a4d078e) ([archive](https://archive.is/Cdc9y))
+- [Why Are Sines and Cosines Used For Positional Encoding?](https://mfaizan.github.io/2023/04/02/sines.html) ([archive](https://web.archive.org/web/20230419142252/https://mfaizan.github.io/2023/04/02/sines.html))
+  - [Complex Number Primer - Polar & Exponential Form](https://tutorial.math.lamar.edu/Extras/ComplexPrimer/Forms.aspx) ([archive](https://web.archive.org/web/20240212093309/https://tutorial.math.lamar.edu/Extras/ComplexPrimer/Forms.aspx))
+
 ### LLaMA
 
 - [LLaMA-2 from the Ground Up](https://cameronrwolfe.substack.com/p/llama-2-from-the-ground-up) ([archive](https://web.archive.org/web/20231123055809/https://cameronrwolfe.substack.com/p/llama-2-from-the-ground-up))
-- [Understanding Rotary Positional Encoding](https://medium.com/@ngiengkianyew/understanding-rotary-positional-encoding-40635a4d078e) ([archive](https://archive.is/Cdc9y))
+- [Understanding Llama2: KV Cache, Grouped Query Attention, Rotary Embedding and More](https://ai.plainenglish.io/understanding-llama2-kv-cache-grouped-query-attention-rotary-embedding-and-more-c17e5f49a6d7) ([archive](https://archive.is/Sqmci))
+- [SwiGLU](https://kikaben.com/swiglu-2020/) ([archive](https://web.archive.org/web/20240105225430/https://kikaben.com/swiglu-2020/))
 
 Following LLaMA2 implementations in PyTorch are very similar, but their code comments are kind of complementary. I find reading both side-by-side really helpful.
 
