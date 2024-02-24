@@ -66,6 +66,13 @@ Following LLaMA2 implementations in PyTorch are very similar, but their code com
 - [LLaMA2 from Scratch](https://github.com/aju22/LLaMA2)
 - [pytorch-llama](https://github.com/hkproj/pytorch-llama)
 
-After getting familiar with the PyTorch code, the C implementation helps understand deeper.
+After getting familiar with the PyTorch code, the C/C++ implementations help understand deeper.
 
+- [Inference Llama2 with High-Level C++](https://github.com/frost-beta/llama2-high-level-cpp)
 - [Inference Llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
+
+### Automatic Differentiation
+
+- [A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API](https://github.com/karpathy/micrograd)
+- [A pedagogical implementation of Autograd](https://github.com/mattjj/autodidact)
+  - [CSC321 Lecture 10: Automatic Differentiation](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf) ([archive](https://web.archive.org/web/20240208042020/http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf))
