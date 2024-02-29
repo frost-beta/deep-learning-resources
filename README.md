@@ -76,3 +76,9 @@ After getting familiar with the PyTorch code, the C/C++ implementations help und
 - [A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API](https://github.com/karpathy/micrograd)
 - [A pedagogical implementation of Autograd](https://github.com/mattjj/autodidact)
   - [CSC321 Lecture 10: Automatic Differentiation](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf) ([archive](https://web.archive.org/web/20240208042020/http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf))
+
+### SIMD
+
+- [SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf) ([archive](https://web.archive.org/web/20231128131819/http://const.me/articles/simd/simd.pdf))
+- [DirectXMath](https://learn.microsoft.com/en-us/windows/win32/dxmath/pg-xnamath-getting-started)
+- [google/highway](https://github.com/google/highway)
